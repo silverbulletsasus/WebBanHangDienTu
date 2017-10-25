@@ -1,0 +1,4 @@
+﻿Tài Khoản Đăng Nhập Admin
+------------------------------
+Tên đăng nhập: admin
+Mật Khẩu: 123456
